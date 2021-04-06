@@ -1,0 +1,36 @@
+_repo: Ad-astra-Yomaalarin-unelma-seitsemassa-kuvaelmassa_64996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larin-Kyösti
+    aliases:
+    - Larson, Kaarlo Kyösti
+    - Larson, Kyösti
+    - Larson, Gosta
+    - Larson, Karl Gustaf
+    - Kyösti, Larin
+    - Larson, Gösta
+    - Larsson, Karl Gustaf
+    - Larin-Kyosti
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '45809'
+    url: http://www.gutenberg.org/2009/agents/45809
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+    - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+description: ''
+gutenberg_issued: '2021-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64996'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ad astra
+
+  Yömaalarin unelma seitsemässä kuvaelmassa'
+url: http://www.gutenberg.org/ebooks/64996
